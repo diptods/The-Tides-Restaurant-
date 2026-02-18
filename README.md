@@ -103,4 +103,7 @@ Created for The Tides Restaurant - Sophisticated flavors, coastal soul.
 
 ---
 
-For more information or inquiries, please visit our contact page or call us at +1 234 567 890.
+For more information or inquiries, please visit our contact page.
+
+
+
